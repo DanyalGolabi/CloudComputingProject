@@ -29,10 +29,13 @@ To install and activate this project, in terminal navigate to the root folder of
 Activate the virtual env
 
 ```
+python3 -m venv flask_venv
 source flask_venv/bin/activate
+```
 
 or for windows
 
+```
 source flask_venv\bin\activate
 ```
 
