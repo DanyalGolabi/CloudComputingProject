@@ -1,0 +1,4 @@
+DEBUG = False
+API_KEY = 'INSERT_HERE'
+APP_ID = 'INSERT_HERE'
+DATABASE='stations.db'
