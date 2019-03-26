@@ -13,6 +13,7 @@ To run the software you will need Python 3.X onwards and the following, all of w
 ```
 python3 -m pip install flask
 python3 -m pip install fuzzywuzzy
+python3 -m pip install -U -r requirements.txt
 ```
 
 The software also required a TFL API key and ID that need to be added to instance/config.py in the appropriate place: 
