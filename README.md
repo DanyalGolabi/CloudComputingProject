@@ -8,11 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-To run the software you will need Python 3.X onwards and the following, all of which can be installed with pip. 
+To run the software you will need Python 3.X onwards and the following, which can be installed with pip. 
 
 ```
-python3 -m pip install flask
-python3 -m pip install fuzzywuzzy
 python3 -m pip install -U -r requirements.txt
 ```
 
