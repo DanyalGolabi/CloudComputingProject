@@ -55,7 +55,6 @@ def fuzzy_find_station(station):
 	return_station=""
 	for row in stations:
 		ratio = fuzz.ratio(station.lower(),row.lower())
-		print(str(row) + " " + str(ratio))
 		if (ratio>highest):
 			highest = ratio
 			return_station = row
